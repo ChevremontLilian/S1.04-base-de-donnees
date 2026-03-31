@@ -1,7 +1,7 @@
 # S1.04-base-de-données
 Projet S1.04
 
-##Sujet:
+## Sujet:
 
 Ce projet porte sur la gestion des adeptes des tenders de poulet à la raclette (appelés tenrac). Le 
 moindre de leurs agissements de ces membres doit être scrupuleusement et le plus précisément 
